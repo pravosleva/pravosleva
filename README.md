@@ -1,4 +1,4 @@
-### Hi, I'm Denis - aka [pravosleva](http://pravosleva.ru)
+### Hi, I'm Denis - aka [pravosleva][website] 👋
 
 ### Connect with me:
 
@@ -7,4 +7,5 @@
 <br />
 <br />
 
+[website]: http://pravosleva.ru
 [facebook]: https://facebook.com/pravosleva
