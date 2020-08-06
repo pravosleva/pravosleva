@@ -18,5 +18,7 @@
 
 ---
 
+<img align="left" alt="Denis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pravosleva&show_icons=true&hide_border=true" />
+
 [website]: http://pravosleva.ru
 [facebook]: https://facebook.com/pravosleva
