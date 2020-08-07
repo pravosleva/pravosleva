@@ -15,7 +15,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [reCAPTCHA v3: How to use with React + Express](http://pravosleva.ru/article/recaptcha-v3)
+- [reCAPTCHA v3: Интеграция в проект на React + Express](http://pravosleva.ru/article/recaptcha-v3)
 - [Git hooks for beginners](http://pravosleva.ru/article/git-hooks)
 - [URL Metadata server: Simplest helper based on Express server](http://pravosleva.ru/article/url-metadata-server)
 - [Первый стабильный релиз Strapi: 5 лет не прошли даром](http://pravosleva.ru/article/pervyj-stabilnyj-reliz-strapi)
