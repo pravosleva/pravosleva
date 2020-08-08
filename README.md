@@ -23,7 +23,7 @@
 
 ---
 
-<img align="left" alt="Denis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pravosleva&show_icons=true&hide_border=true&theme=gruvbox" />
+<img align="left" alt="Denis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pravosleva&show_icons=true&hide_border=false" />
 
 [website]: http://pravosleva.ru
 [facebook]: https://facebook.com/pravosleva
