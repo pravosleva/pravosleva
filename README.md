@@ -25,6 +25,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
   <img align="left" alt="Dan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pravosleva&theme=nord&show_icons=true&hide_border=true" />
 </details>
 
