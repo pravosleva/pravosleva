@@ -6,6 +6,7 @@
 
 [<img align="left" alt="Pravosleva | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Dan Pol | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img src="https://img.shields.io/twitter/follow/pravosleva86?style=for-the-badg" />
 
 <br />
 
