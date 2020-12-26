@@ -9,7 +9,7 @@
 
 ---
 
-### 🚩 Latest blog posts
+### 👉 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 
