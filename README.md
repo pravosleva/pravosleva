@@ -9,19 +9,6 @@
 
 ---
 
-### 👉 Latest blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Работа в SMARTPRICE.RU](http://pravosleva.ru/article/smartprice.ru)
-- [reCAPTCHA v3: Интеграция в проект на React + Express](http://pravosleva.ru/article/recaptcha-v3)
-- [Git hooks for beginners](http://pravosleva.ru/article/git-hooks)
-- [URL Metadata server: Simplest helper based on Express server](http://pravosleva.ru/article/url-metadata-server)
-- [Первый стабильный релиз Strapi: 5 лет не прошли даром](http://pravosleva.ru/article/pervyj-stabilnyj-reliz-strapi)
-- [Работа в UREMONT.COM](http://pravosleva.ru/article/uremont.com)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### ⚙️ My current stack (2020.12)
 
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -36,6 +23,19 @@
 <!-- <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled_components-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
+
+---
+
+### 👉 Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Работа в SMARTPRICE.RU](http://pravosleva.ru/article/smartprice.ru)
+- [reCAPTCHA v3: Интеграция в проект на React + Express](http://pravosleva.ru/article/recaptcha-v3)
+- [Git hooks for beginners](http://pravosleva.ru/article/git-hooks)
+- [URL Metadata server: Simplest helper based on Express server](http://pravosleva.ru/article/url-metadata-server)
+- [Первый стабильный релиз Strapi: 5 лет не прошли даром](http://pravosleva.ru/article/pervyj-stabilnyj-reliz-strapi)
+- [Работа в UREMONT.COM](http://pravosleva.ru/article/uremont.com)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
