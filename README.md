@@ -12,7 +12,7 @@
 ### 👉 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Работа в SMARTPRICE.RU](http://pravosleva.ru/article/smartprice.ru)
 - [reCAPTCHA v3: Интеграция в проект на React + Express](http://pravosleva.ru/article/recaptcha-v3)
 - [Git hooks for beginners](http://pravosleva.ru/article/git-hooks)
 - [URL Metadata server: Simplest helper based on Express server](http://pravosleva.ru/article/url-metadata-server)
