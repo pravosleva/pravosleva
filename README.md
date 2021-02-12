@@ -11,18 +11,15 @@
 
 ### My current stack | 2020.12
 
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<!-- <blockquote>
-  <details>
-    <summary>Read more</summary>
-    react@16.13.1 / hooks / context api
-  </details>
-</blockquote> -->
-<img src="https://img.shields.io/badge/next.js%20-%23FFFFFF.svg?&style=for-the-badge&logo=next.js&logoColor=000"/>
-<!-- <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> -->
-<img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
-<img src="https://img.shields.io/badge/styled_components-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
+<a href="https://www.github.com/pravosleva" style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/next.js%20-%23FFFFFF.svg?&style=for-the-badge&logo=next.js&logoColor=000"/>
+  <!-- <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled_components-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+</a>
 
 ---
 
