@@ -18,6 +18,7 @@
   <!-- <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled_components-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/electron%20-%231A1B23.svg?style=for-the-badge&logo=electron&logoColor=%239FEAF9" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
 </a>
 
