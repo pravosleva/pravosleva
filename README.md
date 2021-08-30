@@ -1,4 +1,4 @@
-### Hi, I'm Denis | You're welcome to [my blog][website]
+### You're welcome to [my website][website]
 
 ---
 
@@ -24,16 +24,10 @@
 
 ---
 
-### 👉 Latest blog posts
+### 👉 Projects (in progress)
 
 <!-- BLOG-POST-LIST:START -->
-- [О работе в SMARTPRICE.RU](http://pravosleva.ru/article/smartprice.ru)
-- [reCAPTCHA v3: Интеграция в проект на React + Express](http://pravosleva.ru/article/recaptcha-v3)
-- [Git hooks for beginners](http://pravosleva.ru/article/git-hooks)
-- [URL Metadata server: Simplest helper based on Express server](http://pravosleva.ru/article/url-metadata-server)
-- [Первый стабильный релиз Strapi: 5 лет не прошли даром](http://pravosleva.ru/article/pervyj-stabilnyj-reliz-strapi)
-- [О работе в UREMONT.COM](http://pravosleva.ru/article/uremont.com)
-- [О работе в PROMVENTHOLOD.RU](http://pravosleva.ru/article/cargo-2016)
+- [List](http://pravosleva.ru/projects)
 <!-- BLOG-POST-LIST:END -->
 
 ---
