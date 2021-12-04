@@ -27,6 +27,7 @@
 ### 👉 Projects (in progress)
 
 <!-- BLOG-POST-LIST:START -->
+- [О работе в SMARTPRICE.RU](http://pravosleva.ru/cra/#/projects?open=61abae333fbbf00fde4b37ea)
 - [О работе в UREMONT.COM](http://pravosleva.ru/cra/#/projects?open=61362c25ba8e242ae8205acb)
 <!-- BLOG-POST-LIST:END -->
 
