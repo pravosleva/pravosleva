@@ -1,45 +1,89 @@
-### You're welcome to [my website][website]
+# Привет! Я Денис 👋 (Senior / Frontend Engineer & Software Architect)
+
+<p align="center">
+  <img src="https://komarev.com" alt="Просмотры" />
+</p>
 
 ---
 
-[<img align="left" alt="Pravosleva | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Dan Pol | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Dan Pol | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
+### 👨‍💻 Обо мне
+
+Я Frontend-разработчик с опытом **более 7 лет в коммерческой разработке**. Специализируюсь на проектировании отказоустойчивых веб-приложений, создании изоморфных реактивных движков, внедрении микрофронтенд-архитектуры и глубокой оптимизации производительности интерфейсов (перформанс, UX, потребление ресурсов на устройстве).
+
+* 🔮 **Архитектура & DX:** Перевожу объемный легаси-функционал на современные рельсы, выстраиваю процессы «защитного программирования» и DX так, чтобы проекты развивались годами без накопления критического техдолга. Из сложных задач бизнеса делаю простые и понятные структуры для команды.
+* ⚡ **Performance-экспертиза:** Разгоняю Lighthouse до максимальных зеленых зон, выжигаю TBT до минимума, выношу стороннюю телеметрию в фоновые Web Workers (инхаус REST API), уничтожаю петли loopback на серверах и каскадные штормы гидратации.
+* 🔧 **Инфраструктура & Мониторинг:** Тонкая калибровка Nginx-кэширования, сборка BFF-сервисов на Node.js, Docker, Webpack Module Federation, автоматизация рутины через Bash-скрипты, внедрение Unit и Snapshot тестирования.
 
 ---
 
-### My current stack | 2020.12
+### 🛠️ Мой Реактивный Тех-Стек
 
-<a href="https://www.github.com/pravosleva" style="display: flex; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/next.js%20-%23FFFFFF.svg?&style=for-the-badge&logo=next.js&logoColor=000"/>
-  <!-- <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/styled_components-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/electron%20-%231A1B23.svg?style=for-the-badge&logo=electron&logoColor=%239FEAF9" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-</a>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🚀 Frontend Core & State Architecture</h4>
+      <img src="https://shields.io" alt="TS" />
+      <img src="https://shields.io" alt="React" />
+      <img src="https://shields.io" alt="Next" />
+      <img src="https://shields.io" alt="Redux" />
+      <img src="https://shields.io" alt="XState" />
+      <img src="https://shields.io" alt="Valtio" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🎨 UI, Layout & Препроцессоры</h4>
+      <img src="https://shields.io" alt="Tailwind" />
+      <img src="https://shields.io" alt="MUI" />
+      <img src="https://shields.io" alt="SC" />
+      <img src="https://shields.io" alt="Sass" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>📡 Инфраструктура, DevOps & Backend</h4>
+      <img src="https://shields.io" alt="Node" />
+      <img src="https://shields.io" alt="MF" />
+      <img src="https://shields.io" alt="Nginx" />
+      <img src="https://shields.io" alt="Docker" />
+      <img src="https://shields.io" alt="Strapi" />
+      <img src="https://shields.io" alt="PM2" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🛰️ Низкоуровневые Web API & Protocols</h4>
+      <img src="https://shields.io" alt="Web Workers" />
+      <img src="https://shields.io" alt="Web Audio" />
+      <img src="https://shields.io" alt="PWA" />
+      <img src="https://shields.io" alt="Sockets" />
+      <img src="https://shields.io" alt="Storage" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 👉 Projects (in progress)
+### 📊 Живая Инженерная Статистика
 
-<!-- BLOG-POST-LIST:START -->
-- [О работе в SMARTPRICE.RU](http://pravosleva.ru/cra/#/projects?open=61abae333fbbf00fde4b37ea)
-- [О работе в UREMONT.COM](http://pravosleva.ru/cra/#/projects?open=61362c25ba8e242ae8205acb)
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <img src="https://vercel.app" alt="Статистика коммитов" width="48%" />
+  <img src="https://vercel.app" alt="Языки" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="Стрик активности" width="98%" />
+</p>
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  
-  <img align="left" alt="Dan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pravosleva&theme=default&show_icons=true&hide_border=true" />
-</details>
+### 🌟 Флагманские Проекты & Коммерческий Опыт
 
-[website]: http://pravosleva.ru
-[facebook]: https://facebook.com/pravosleva
-[linkedin]: https://www.linkedin.com/in/pravosleva
-[twitter]: https://www.twitter.com/in/pravosleva86
+* 💼 **[Личный Кабинет ДМС «Росгосстрах»](https://rgs.ru)** — Проектирование и запуск архитектуры ЛК ДМС застрахованного лица с нуля в рамках масштабной корпоративной микрофронтенд-экосистемы (**Webpack Module Federation**). Разработка PWA, WebView для мобильных приложений, интеграция сторонних чат-сервисов (Edna), оптимизация сложных скоринговых форм. Проект успешно передан заказчику в срок, без срывов спринтов.
+* 🚗 **[UREMONT.com](https://uremont.com)** — Руководство FE-отделом и проектирование архитектуры крупнейшего агрегатора автосервисов в СНГ. Внедрение **TypeScript** и самописных HOC-решений для чистого удаления jQuery и радикального улучшения DX. Интеграция картографических API (Google Maps), разработка модулей динамического расчета цен по нормо-часам автопроизводителей, архитектура систем скрытия телефонных номеров клиентов для защиты от спама.
+* 📰 **[Next.js High-Performance Blog](https://github.com)** — Мой личный технологический полигон на Next.js / Webpack 5. Разгрузка Main Thread через инхаус Web Worker аналитику (REST Google Measurement Protocol), оптимизация обложек Sharp, ленивое монтирование гидратации. Время блокировки (TBT) — рекордные **150 мс**.
+* 🔮 **[R-ENGINE / Reactive Engine Extensions](https://github.com)** — Мой авторский реактивный опенсорс-движок на чистом JS с возможностью бесшовной адаптации к React 18+, Vue 3.2+ и Angular 16+. Используется как ультра-легковесный стейт-менеджер для отслеживания связей сложных состояний, декларативных ресурсов и умного Long Polling-восстановления сети.
+* 📈 **[SmartPrice Экосистема](https://pravosleva.pro/p/cv-ru)** — Запуск двух крупных проектов с нуля на позиции Ведущего разработчика. Перевод легаси-продуктов на Rollup (кратный буст скорости выдачи), реверс-инжиниринг легаси-архитектур и построение сквозного DX-рантайма на базе **Python/Django + React/TypeScript** с изолированной сборкой для конкретных партнеров компании.
+
+---
+
+### 📫 Как со мной связаться
+
+* 🌐 **Портфолио & Блог:** [pravosleva.pro](https://pravosleva.pro/blog)
+* ✉️ **Telegram:** [@pravosleva](https://t.me/pravosleva)
