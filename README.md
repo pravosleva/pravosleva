@@ -1,50 +1,29 @@
 # Привет! Я Денис 👋 (Senior / Frontend Engineer & Software Architect)
 
----
+[![Website](https://img.shields.io/website?label=pravosleva.pro/blog&style=for-the-badge&url=https%3A%2F%2Fpravosleva.pro/blog)](https://pravosleva.pro/blog)
 
 ### 👨‍💻 Обо мне
 
-Я Frontend-разработчик с опытом **более 7 лет в коммерческой разработке**. Специализируюсь на проектировании отказоустойчивых веб-приложений, создании изоморфных реактивных движков, внедрении микрофронтенд-архитектуры и глубокой оптимизации производительности интерфейсов (перформанс, UX, потребление ресурсов на устройстве).
+Я Frontend-разработчик с опытом **более 7 лет в коммерческой разработке** (на момент 2026.08). Специализируюсь на проектировании отказоустойчивых веб-приложений, создании изоморфных реактивных движков, внедрении микрофронтенд-архитектуры и глубокой оптимизации производительности интерфейсов (перформанс, UX, потребление ресурсов на устройстве).
 
 * 🔮 **Архитектура & DX:** Перевожу объемный легаси-функционал на современные рельсы, выстраиваю процессы «защитного программирования» и DX так, чтобы проекты развивались годами без накопления критического техдолга. Из сложных задач бизнеса делаю простые и понятные структуры для команды.
 * ⚡ **Performance-экспертиза:** Разгоняю Lighthouse до максимальных зеленых зон, выжигаю TBT до минимума, выношу стороннюю телеметрию в фоновые Web Workers (инхаус REST API), уничтожаю петли loopback на серверах и каскадные штормы гидратации.
 * 🔧 **Инфраструктура & Мониторинг:** Тонкая калибровка Nginx-кэширования, сборка BFF-сервисов на Node.js, Docker, Webpack Module Federation, автоматизация рутины через Bash-скрипты, внедрение Unit и Snapshot тестирования.
 
----
+### 🛠️ Что я обычно использую
 
-### 🛠️ Мой Реактивный Тех-Стек
-
-#### 🚀 Frontend Core & State Architecture
-![TypeScript](https://shields.io)
-![React](https://shields.io)
-![Next.js](https://shields.io)
-![Redux Toolkit](https://shields.io)
-![XState](https://shields.io)
-![Valtio](https://shields.io)
-![R-Engine](https://shields.io)
-
-#### 🎨 UI, Layout & Препроцессоры
-![Tailwind CSS](https://shields.io)
-![Material-UI](https://shields.io)
-![Styled-Components](https://shields.io)
-![Sass/SCSS Modules](https://shields.io)
-
-#### 📡 Инфраструктура, DevOps & Backend
-![Node.js](https://shields.io)
-![Microfrontends](https://shields.io)
-![Nginx](https://shields.io)
-![Docker](https://shields.io)
-![Strapi CMS](https://shields.io)
-![PM2](https://shields.io)
-
-#### 🛰️ Низкоуровневые Web API & Protocols
-![Web Workers](https://shields.io)
-![Web Audio API](https://shields.io)
-![Service Worker & PWA](https://shields.io)
-![Socket.io](https://shields.io)
-![IndexedDB](https://shields.io)
-
----
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 
 ### 🌟 Флагманские Проекты & Коммерческий Опыт
 
@@ -54,9 +33,17 @@
 * 🔮 **[R-ENGINE / Reactive Engine Extensions](https://www.npmjs.com/package/@pravosleva/reactive-engine)** — Мой авторский реактивный опенсорс-движок на чистом JS с возможностью бесшовной адаптации к React 18+, Vue 3.2+ и Angular 16+. Используется как ультра-легковесный стейт-менеджер для отслеживания связей сложных состояний, декларативных ресурсов и умного Long Polling-восстановления сети.
 * 📈 **SmartPrice Экосистема** — Запуск двух крупных проектов с нуля на позиции Ведущего разработчика. Перевод легаси-продуктов на Rollup (кратный буст скорости выдачи), реверс-инжиниринг легаси-архитектур и построение сквозного DX-рантайма на базе **Python/Django + React/TypeScript** с изолированной сборкой для конкретных партнеров компании.
 
----
+### 📕 Статьи
+
+<!-- BLOG-POST-LIST:START -->
+- [Резюме](https://pravosleva.pro/p/cv-ru)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://pravosleva.pro/blog)
 
 ### 📫 Как со мной связаться
 
 * 🌐 **Портфолио & Блог:** [pravosleva.pro/blog](https://pravosleva.pro/blog)
 * ✉️ **Telegram:** [@pravosleva](https://t.me/pravosleva)
+
+[website]: https://pravosleva.pro/blog
